@@ -1,0 +1,92 @@
+Airline,Day,Date,DepartureTime,ArrivalTime,AirportDepart,AirportDestination,Stops,Duration,Price
+Nouvelair,Sun,12/29,7:30 am,10:05 am,TUN,CDG,nonstop,2h 35m,$111
+Nouvelair,Tue,12/31,7:30 am,10:05 am,TUN,CDG,nonstop,2h 35m,$108
+Nouvelair,Mon,12/30,7:30 am,10:05 am,TUN,CDG,nonstop,2h 35m,$108
+Nouvelair,Sun,12/29,7:30 am,10:05 am,TUN,CDG,nonstop,2h 35m,$111
+Nouvelair,Mon,12/30,4:00 pm,6:35 pm,TUN,CDG,nonstop,2h 35m,$126
+Nouvelair,Sun,12/29,4:00 pm,6:35 pm,TUN,CDG,nonstop,2h 35m,$129
+Nouvelair,Wed,1/1,7:30 am,10:05 am,TUN,CDG,nonstop,2h 35m,$165
+Air France,Sun,12/29,5:30 am,8:10 am,TUN,CDG,nonstop,2h 40m,$229
+Air France,Tue,12/31,5:30 am,8:10 am,TUN,CDG,nonstop,2h 40m,$243
+Air France,Mon,12/30,5:30 am,8:10 am,TUN,CDG,nonstop,2h 40m,$243
+Air France,Tue,12/31,10:55 am,1:35 pm,TUN,CDG,nonstop,2h 40m,$267
+Nouvelair,Thu,1/2,7:30 am,10:05 am,TUN,CDG,nonstop,2h 35m,$245
+Nouvelair,Thu,1/2,4:00 pm,6:35 pm,TUN,CDG,nonstop,2h 35m,$272
+Air France,Sun,12/29,10:55 am,1:35 pm,TUN,CDG,nonstop,2h 40m,$301
+Air France,Mon,12/30,10:55 am,1:35 pm,TUN,CDG,nonstop,2h 40m,$301
+Air France,Mon,12/30,4:35 pm,7:15 pm,TUN,CDG,nonstop,2h 40m,$323
+Nouvelair,Sat,1/4,7:30 am,10:05 am,TUN,CDG,nonstop,2h 35m,$320
+ITA Airways,Tue,12/31,7:00 pm,11:40 pm,TUN,CDG,1 stop,4h 40m,$252
+Nouvelair,Sat,1/4,4:00 pm,6:35 pm,TUN,CDG,nonstop,2h 35m,$355
+Air France,Sun,12/29,4:35 pm,7:15 pm,TUN,CDG,nonstop,2h 40m,$333
+Nouvelair,Fri,1/3,7:30 am,10:05 am,TUN,CDG,nonstop,2h 35m,$354
+Nouvelair,Fri,1/3,4:00 pm,6:35 pm,TUN,CDG,nonstop,2h 35m,$389
+Air France,Tue,12/31,4:35 pm,7:15 pm,TUN,CDG,nonstop,2h 40m,$366
+"Tunisair, easyJet",Mon,12/30,7:00 am,11:15 am,TUN,CDG,1 stop,4h 15m,$271
+"Tunisair, easyJet",Tue,12/31,7:00 am,11:15 am,TUN,CDG,1 stop,4h 15m,$272
+"Tunisair, easyJet",Wed,1/1,7:00 am,11:15 am,TUN,CDG,1 stop,4h 15m,$283
+ITA Airways,Wed,1/1,7:00 pm,11:40 pm,TUN,CDG,1 stop,4h 40m,$333
+Air France,Wed,1/1,4:35 pm,7:15 pm,TUN,CDG,nonstop,2h 40m,$429
+ITA Airways,Sun,12/29,7:00 pm,11:40 pm,TUN,CDG,1 stop,4h 40m,$372
+"Tunisair Express, Nouvelair",Wed,1/1,6:00 am,12:10 pm,TUN,CDG,1 stop,6h 10m,$283
+"Nouvelair, easyJet",Wed,1/1,5:00 pm,10:35 pm,TUN,CDG,1 stop,5h 35m,$287
+Air France,Wed,1/1,5:30 am,8:10 am,TUN,CDG,nonstop,2h 40m,$369
+ITA Airways,Tue,12/31,11:25 am,5:20 pm,TUN,CDG,1 stop,5h 55m,$337
+"Nouvelair, easyJet",Tue,12/31,8:30 am,3:05 pm,TUN,CDG,1 stop,6h 35m,$266
+"Tunisair, easyJet",Sun,12/29,7:45 am,12:45 pm,TUN,CDG,1 stop,5h 00m,$335
+"Nouvelair, ASL Airlines France",Sun,12/29,6:15 am,2:00 pm,TUN,CDG,1 stop,7h 45m,$264
+"Tunisair, easyJet",Wed,1/1,7:45 am,12:30 pm,TUN,CDG,1 stop,4h 45m,$364
+"Nouvelair, easyJet",Sun,12/29,12:45 pm,9:15 pm,TUN,CDG,1 stop,8h 30m,$224
+Air Algerie,Sun,12/29,9:30 am,3:45 pm,TUN,CDG,1 stop,6h 15m,$380
+"Nouvelair, Luxair",Sun,12/29,11:00 am,7:35 pm,TUN,CDG,2 stops,8h 35m,$265
+Air Algerie,Mon,12/30,9:30 am,3:45 pm,TUN,CDG,,6h 15m,$381
+Air France,Thu,1/2,4:35 pm,7:15 pm,TUN,CDG,1 stop,2h 40m,$526
+"Tunisair, Air Algerie",Tue,12/31,12:20 pm,5:40 pm,TUN,CDG,nonstop,5h 20m,$407
+Air France,Fri,1/3,10:55 am,1:35 pm,TUN,CDG,1 stop,2h 40m,$526
+"Transavia France, Air France",Sun,12/29,9:40 am,3:45 pm,TUN,CDG,nonstop,6h 05m,$325
+Air France,Thu,1/2,5:30 am,8:10 am,TUN,CDG,1 stop,2h 40m,$461
+Air France,Fri,1/3,5:30 am,8:10 am,TUN,CDG,,2h 40m,$470
+"Nouvelair, easyJet",Fri,1/3,6:00 pm,10:35 pm,TUN,CDG,nonstop,4h 35m,$433
+"Tunisair, easyJet",Sun,12/29,7:45 am,5:10 pm,TUN,CDG,nonstop,9h 25m,$245
+"Nouvelair, easyJet",Sun,12/29,11:00 am,9:35 pm,TUN,CDG,1 stop,10h 35m,$205
+ITA Airways,Tue,12/31,11:25 am,8:35 pm,TUN,CDG,1 stop,9h 10m,$316
+"Nouvelair, Air Algerie",Mon,12/30,11:00 am,5:40 pm,TUN,CDG,,6h 40m,$395
+ITA Airways,Tue,12/31,11:25 am,8:35 pm,TUN,CDG,1 stop,9h 10m,$316
+ITA Airways,Tue,12/31,11:25 am,8:35 pm,TUN,CDG,2 stops,9h 10m,$316
+ITA Airways,Mon,12/30,11:25 am,5:20 pm,TUN,CDG,1 stop,5h 55m,$455
+ITA Airways,Tue,12/31,11:25 am,6:40 pm,TUN,CDG,2 stops,7h 15m,$400
+ITA Airways,Mon,12/30,11:25 am,6:40 pm,TUN,CDG,2 stops,7h 15m,$405
+Air France,Wed,1/1,10:55 am,1:35 pm,TUN,CDG,1 stop,2h 40m,$585
+"Tunisair, easyJet",Sun,12/29,7:45 am,5:15 pm,TUN,CDG,2 stops,9h 30m,$272
+"Tunisair, easyJet",Wed,1/1,7:45 am,2:35 pm,TUN,CDG,2 stops,6h 50m,$380
+"Tunisair, easyJet",Sun,12/29,7:45 am,4:25 pm,TUN,CDG,nonstop,8h 40m,$310
+"Tunisair, easyJet",Thu,1/2,8:05 am,4:05 pm,TUN,CDG,1 stop,8h 00m,$345
+Air France,Thu,1/2,10:55 am,1:35 pm,TUN,CDG,1 stop,2h 40m,$598
+"Tunisair, easyJet",Sun,12/29,12:15 pm,5:15 pm,TUN,CDG,1 stop,5h 00m,$466
+"Tunisair, Air Algerie",Mon,12/30,12:20 pm,5:40 pm,TUN,CDG,1 stop,5h 20m,$485
+"Tunisair, easyJet",Fri,1/3,7:45 am,1:15 pm,TUN,CDG,nonstop,5h 30m,$457
+"Nouvelair, easyJet",Thu,1/2,8:30 am,4:05 pm,TUN,CDG,1 stop,7h 35m,$375
+"Tunisair, easyJet",Mon,12/30,8:05 am,4:00 pm,TUN,CDG,1 stop,7h 55m,$362
+"Tunisair, easyJet",Fri,1/3,7:45 am,2:45 pm,TUN,CDG,1 stop,7h 00m,$402
+ITA Airways,Mon,12/30,11:25 am,8:35 pm,TUN,CDG,1 stop,9h 10m,$376
+Air France,Sat,1/4,5:30 am,8:10 am,TUN,CDG,1 stop,2h 40m,$548
+Air Algerie,Tue,12/31,9:30 am,3:45 pm,TUN,CDG,1 stop,6h 15m,$505
+"Tunisair, Air Algerie",Tue,12/31,12:20 pm,7:10 pm,TUN,CDG,2 stops,6h 50m,$434
+ITA Airways,Mon,12/30,11:25 am,8:35 pm,TUN,CDG,nonstop,9h 10m,$376
+Air France,Fri,1/3,4:35 pm,7:15 pm,TUN,CDG,1 stop,2h 40m,$625
+ITA Airways,Mon,12/30,11:25 am,8:35 pm,TUN,CDG,1 stop,9h 10m,$376
+"Tunisair, ITA Airways",Wed,1/1,8:00 am,1:15 pm,TUN,CDG,2 stops,5h 15m,$510
+"Tunisair, ITA Airways",Sun,12/29,8:00 am,1:15 pm,TUN,CDG,nonstop,5h 15m,$516
+ITA Airways,Sun,12/29,11:25 am,8:35 pm,TUN,CDG,2 stops,9h 10m,$400
+Lufthansa,Sun,12/29,3:00 am,8:00 am,TUN,CDG,1 stop,5h 00m,$468
+"Tunisair, Vueling",Wed,1/1,12:15 pm,8:05 pm,TUN,CDG,1 stop,7h 50m,$405
+ITA Airways,Sun,12/29,11:25 am,8:35 pm,TUN,CDG,2 stops,9h 10m,$400
+"Tunisair, easyJet",Thu,1/2,7:45 am,1:20 pm,TUN,CDG,1 stop,5h 35m,$493
+ITA Airways,Tue,12/31,11:25 am,8:35 pm,TUN,CDG,1 stop,9h 10m,$400
+"Nouvelair, Air Algerie",Wed,1/1,9:30 am,3:45 pm,TUN,CDG,2 stops,6h 15m,$491
+ITA Airways,Mon,12/30,11:25 am,8:35 pm,TUN,CDG,1 stop,9h 10m,$405
+"Tunisair, easyJet",Thu,1/2,8:05 am,5:45 pm,TUN,CDG,2 stops,9h 40m,$334
+"Transavia France, Air France",Mon,12/30,9:45 am,7:30 pm,TUN,CDG,1 stop,9h 45m,$308
+ITA Airways,Wed,1/1,11:25 am,5:20 pm,TUN,CDG,2 stops,5h 55m,$517
+Air Algerie,Mon,12/30,9:30 am,5:40 pm,TUN,CDG,1 stop,8h 10m,$473
+"Tunisair, easyJet",Wed,1/1,7:45 am,4:50 pm,TUN,CDG,,9h 05m,$366
